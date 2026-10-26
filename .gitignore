@@ -1,0 +1,18 @@
+# YOLO Model Weights & Archives
+*.pt
+*.weights
+*.onnx
+*.zip
+
+# Training logs, runs & caches
+runs/
+SPILL/runs/
+*.cache
+
+# Datasets / Images (avoid uploading raw image datasets to code repo)
+SPILL/images/
+
+# Virtual environment & sensitive configs
+venv/
+.venv/
+*.env

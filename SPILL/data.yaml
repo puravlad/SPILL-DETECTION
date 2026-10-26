@@ -1,0 +1,9 @@
+path: C:/Users/Purav lad/OneDrive/Desktop/project/SPILL_Detection/SPILL
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: SPILL
+  1: DRY
